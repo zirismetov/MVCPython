@@ -1,0 +1,22 @@
+{
+  "characters": [
+    {
+      "name": "Amber",
+      "Age": 18,
+      "Type": "Hero",
+      "city": "New York"
+    },
+    {
+      "name": "Poco",
+      "Age": 25,
+      "Type": "Hero",
+      "city": "Mexico"
+    },
+    {
+      "name": "Colt",
+      "Age": 20,
+      "Type": "Villain",
+      "city": "Riga"
+    }
+  ]
+}
